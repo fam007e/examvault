@@ -1,0 +1,25 @@
+# Node (if frontend gets added)
+node_modules/
+dist/
+build/
+
+# Python (if scripting tools are added)
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Mac system files
+.DS_Store
+
+# LaTeX artifacts (if raw .tex gets used later)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# OS or editor backups
+*.swp
+*.swo
+*.bak
+*.tmp
